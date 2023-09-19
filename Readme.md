@@ -1,6 +1,6 @@
 # Image Depixelation Project
 
-This was a machine learning project for depixelating images. Here I have used neural networks such as CNN to dipixelate some parts of an image which was previously pixelated.This was the project for the "Programming in Python II" course at the Johannes Kepler University Linz.
+This is a machine learning project for depixelating images. Here I have used neural networks such as CNN to dipixelate some parts of an image which was previously pixelated.This was the project for the "Programming in Python II" course at the Johannes Kepler University Linz.
 
 ## Structure
 ```
