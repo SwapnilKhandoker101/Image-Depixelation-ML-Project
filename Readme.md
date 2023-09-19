@@ -24,5 +24,5 @@ ImageDipixelationProject2023
 # Reference Note
 
 In this project I have reused codes from certain previous assignments and also have used some codes from the example project.
- I have also used experimented with the hyperparameters such as changing the batch size , hidden layers and number of epochs for updates and tried to obtain the best model.
+ I have also  experimented with the hyperparameters such as changing the batch size , hidden layers and number of epochs for updates and tried to obtain the best model.
 
